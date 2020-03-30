@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JareBearCopyrightViewTool::Renderer.copyright "Jared Blake", "All rights reserved."
+```
 
 ## Development
 
